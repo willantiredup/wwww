@@ -4,7 +4,7 @@
     File utama yang di-fetch : willhub/willhub.lua
 ]]
 
-local GITHUB_USER = "USERNAME_KAMU"
+local GITHUB_USER = "willantiredup"
 local REPO        = "willhub"
 local BRANCH      = "main"
 local FILE        = "willhub.lua"
